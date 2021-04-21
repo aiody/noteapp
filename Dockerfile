@@ -15,3 +15,4 @@ RUN bundle install
 
 ADD . /noteapp
 RUN yarn install
+
